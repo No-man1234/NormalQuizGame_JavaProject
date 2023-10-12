@@ -1,5 +1,3 @@
-package labproject;
-
 import java.awt.event.*;
 import javax.swing.*;
 
