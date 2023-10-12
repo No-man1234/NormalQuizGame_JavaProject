@@ -1,6 +1,3 @@
-
-package labproject;
-
 public class Question {
 
     private String question;
